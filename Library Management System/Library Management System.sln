@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Library Management System", "WinFormsApp3 okay\Library Management System.vbproj", "{EFFB42F9-478B-4D21-BA9C-9EEE0E0A7139}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Library Management System Setup", "Library Management System Setup\Library Management System Setup.vdproj", "{E2A63F41-3BC0-4268-9853-0CD3728336C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFFB42F9-478B-4D21-BA9C-9EEE0E0A7139}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFFB42F9-478B-4D21-BA9C-9EEE0E0A7139}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFFB42F9-478B-4D21-BA9C-9EEE0E0A7139}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFFB42F9-478B-4D21-BA9C-9EEE0E0A7139}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2A63F41-3BC0-4268-9853-0CD3728336C1}.Debug|Any CPU.ActiveCfg = Debug
+		{E2A63F41-3BC0-4268-9853-0CD3728336C1}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E25A1C0C-A542-4E33-B099-EB17C33CF0A3}
+	EndGlobalSection
+EndGlobal

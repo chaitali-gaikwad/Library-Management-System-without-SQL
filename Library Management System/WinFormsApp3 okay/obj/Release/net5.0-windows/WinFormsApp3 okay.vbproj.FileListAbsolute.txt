@@ -1,0 +1,23 @@
+C:\Personal\Chaitali\chaitali_study_material\annexures sem4\Library Management System\WinFormsApp3 okay\bin\Release\net5.0-windows\WinFormsApp3 okay.exe
+C:\Personal\Chaitali\chaitali_study_material\annexures sem4\Library Management System\WinFormsApp3 okay\bin\Release\net5.0-windows\WinFormsApp3 okay.deps.json
+C:\Personal\Chaitali\chaitali_study_material\annexures sem4\Library Management System\WinFormsApp3 okay\bin\Release\net5.0-windows\WinFormsApp3 okay.runtimeconfig.json
+C:\Personal\Chaitali\chaitali_study_material\annexures sem4\Library Management System\WinFormsApp3 okay\bin\Release\net5.0-windows\WinFormsApp3 okay.runtimeconfig.dev.json
+C:\Personal\Chaitali\chaitali_study_material\annexures sem4\Library Management System\WinFormsApp3 okay\bin\Release\net5.0-windows\WinFormsApp3 okay.dll
+C:\Personal\Chaitali\chaitali_study_material\annexures sem4\Library Management System\WinFormsApp3 okay\bin\Release\net5.0-windows\ref\WinFormsApp3 okay.dll
+C:\Personal\Chaitali\chaitali_study_material\annexures sem4\Library Management System\WinFormsApp3 okay\bin\Release\net5.0-windows\WinFormsApp3 okay.pdb
+C:\Personal\Chaitali\chaitali_study_material\annexures sem4\Library Management System\WinFormsApp3 okay\obj\Release\net5.0-windows\WinFormsApp3 okay.vbprojAssemblyReference.cache
+C:\Personal\Chaitali\chaitali_study_material\annexures sem4\Library Management System\WinFormsApp3 okay\obj\Release\net5.0-windows\WinFormsApp3_okay.Borrow_Book.resources
+C:\Personal\Chaitali\chaitali_study_material\annexures sem4\Library Management System\WinFormsApp3 okay\obj\Release\net5.0-windows\WinFormsApp3_okay.Form2.resources
+C:\Personal\Chaitali\chaitali_study_material\annexures sem4\Library Management System\WinFormsApp3 okay\obj\Release\net5.0-windows\WinFormsApp3_okay.Form1.resources
+C:\Personal\Chaitali\chaitali_study_material\annexures sem4\Library Management System\WinFormsApp3 okay\obj\Release\net5.0-windows\WinFormsApp3_okay.Resources.resources
+C:\Personal\Chaitali\chaitali_study_material\annexures sem4\Library Management System\WinFormsApp3 okay\obj\Release\net5.0-windows\WinFormsApp3_okay.Form3.resources
+C:\Personal\Chaitali\chaitali_study_material\annexures sem4\Library Management System\WinFormsApp3 okay\obj\Release\net5.0-windows\WinFormsApp3_okay.Form4.resources
+C:\Personal\Chaitali\chaitali_study_material\annexures sem4\Library Management System\WinFormsApp3 okay\obj\Release\net5.0-windows\WinFormsApp3 okay.vbproj.GenerateResource.cache
+C:\Personal\Chaitali\chaitali_study_material\annexures sem4\Library Management System\WinFormsApp3 okay\obj\Release\net5.0-windows\WinFormsApp3 okay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\Chaitali\chaitali_study_material\annexures sem4\Library Management System\WinFormsApp3 okay\obj\Release\net5.0-windows\WinFormsApp3 okay.AssemblyInfoInputs.cache
+C:\Personal\Chaitali\chaitali_study_material\annexures sem4\Library Management System\WinFormsApp3 okay\obj\Release\net5.0-windows\WinFormsApp3 okay.AssemblyInfo.vb
+C:\Personal\Chaitali\chaitali_study_material\annexures sem4\Library Management System\WinFormsApp3 okay\obj\Release\net5.0-windows\WinFormsApp3 okay.vbproj.CoreCompileInputs.cache
+C:\Personal\Chaitali\chaitali_study_material\annexures sem4\Library Management System\WinFormsApp3 okay\obj\Release\net5.0-windows\WinFormsApp3 okay.dll
+C:\Personal\Chaitali\chaitali_study_material\annexures sem4\Library Management System\WinFormsApp3 okay\obj\Release\net5.0-windows\ref\WinFormsApp3 okay.dll
+C:\Personal\Chaitali\chaitali_study_material\annexures sem4\Library Management System\WinFormsApp3 okay\obj\Release\net5.0-windows\WinFormsApp3 okay.pdb
+C:\Personal\Chaitali\chaitali_study_material\annexures sem4\Library Management System\WinFormsApp3 okay\obj\Release\net5.0-windows\WinFormsApp3 okay.genruntimeconfig.cache
